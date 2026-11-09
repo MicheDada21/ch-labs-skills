@@ -1,0 +1,23 @@
+{
+  "name": "tutte-le-skill",
+  "description": "Installs all 12 skills of the CH Labs Prompt Library.",
+  "author": {
+    "name": "Tiziano Boccaccini"
+  },
+  "homepage": "https://www.cryptohelvetia.com/ch-labs/prompt-library",
+  "license": "MIT",
+  "dependencies": [
+    "007-founders-nations",
+    "007-headquarters-cities",
+    "3d-decoration-asset",
+    "ai-crawler-access",
+    "audio-transcription",
+    "design-system-refactor",
+    "filtra-stile-linguistico",
+    "gerarchia-editoriale-impaginazione",
+    "iai",
+    "metadati-dadastickers",
+    "riassunto-per-sottrazione",
+    "stack-update"
+  ]
+}
