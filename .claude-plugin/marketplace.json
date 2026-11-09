@@ -10,7 +10,7 @@
     {
       "name": "tutte-le-skill",
       "source": "./plugins/tutte-le-skill",
-      "description": "All 12 skills of the CH Labs Prompt Library in one install.",
+      "description": "All 13 skills of the CH Labs Prompt Library in one install.",
       "category": "productivity"
     },
     {
@@ -55,8 +55,8 @@
         "source": "github",
         "repo": "MicheDada21/audio-transcription"
       },
-      "description": "Transcribe speech from a local audio or video file (mp3, m4a, wav, ogg, opus, flac, webm, aac, aiff, mp4, mov) with Voxtral 3 through OpenRouter, with optional timestamps and speaker labels. Use when the user attaches or names a recording, voice note, meeting, interview or podcast whose words the task needs.",
-      "homepage": "https://www.cryptohelvetia.com/ch-labs/prompt-library"
+      "description": "Transcribe speech from a local audio or video file (mp3, m4a, wav, ogg, opus, flac, webm, aac, aiff, mp4, mov) with Voxtral 3 through OpenRouter, with optional timestamps. Use when the user attaches or names a recording, voice note, meeting, interview or podcast whose words the task needs.",
+      "homepage": "https://www.cryptohelvetia.com/ch-labs/prompt-library/skills/audio-transcription"
     },
     {
       "name": "design-system-refactor",
@@ -120,6 +120,15 @@
       },
       "description": "Update outdated dependencies and tools after a compatibility check and the user's approval. Use when the user asks to update, upgrade or bump this project (scope Project), several or all projects (scope Batch), or Bun, Node, global Bun tools, Homebrew tools or IDE command-line tools (scope Machine toolchain).",
       "homepage": "https://www.cryptohelvetia.com/ch-labs/prompt-library/skills/stack-update"
+    },
+    {
+      "name": "voice-check",
+      "source": {
+        "source": "github",
+        "repo": "MicheDada21/voice-check"
+      },
+      "description": "Check AI-generated speech (ElevenLabs or any TTS) against its script and a real voice: words not read as written, lines in the wrong character's voice, drift, and a 0-100 fidelity score per voice-clone take, with a free offline mode. Use when the user wants a generated voice track checked or voice-clone takes compared and ranked.",
+      "homepage": "https://www.cryptohelvetia.com/ch-labs/prompt-library/skills/voice-check"
     },
     {
       "name": "bazinga",

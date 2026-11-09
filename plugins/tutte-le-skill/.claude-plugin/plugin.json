@@ -1,6 +1,6 @@
 {
   "name": "tutte-le-skill",
-  "description": "Installs all 12 skills of the CH Labs Prompt Library.",
+  "description": "Installs all 13 skills of the CH Labs Prompt Library.",
   "author": {
     "name": "Tiziano Boccaccini"
   },
@@ -18,6 +18,7 @@
     "iai",
     "metadati-dadastickers",
     "riassunto-per-sottrazione",
-    "stack-update"
+    "stack-update",
+    "voice-check"
   ]
 }
