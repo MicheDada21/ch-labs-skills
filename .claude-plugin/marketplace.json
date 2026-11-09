@@ -10,7 +10,7 @@
     {
       "name": "tutte-le-skill",
       "source": "./plugins/tutte-le-skill",
-      "description": "All 13 skills of the CH Labs Prompt Library in one install.",
+      "description": "All 21 skills of the CH Labs Prompt Library in one install.",
       "category": "productivity"
     },
     {
@@ -41,6 +41,15 @@
       "homepage": "https://www.cryptohelvetia.com/ch-labs/prompt-library/skills/3d-decoration-asset"
     },
     {
+      "name": "abbellisci-editoria-tallone",
+      "source": {
+        "source": "github",
+        "repo": "MicheDada21/abbellisci-editoria-tallone"
+      },
+      "description": "Estranges a page's form toward essential futurism at a 0 to 100 level, drawn from Marinetti's own manifestos, while every word stays legible. Use when the user asks to beautify, decorate or dare more with a page, to make it less generic or more futurist, or to brainstorm visual effects.",
+      "homepage": "https://www.cryptohelvetia.com/ch-labs/prompt-library/skills/abbellisci-editoria-tallone"
+    },
+    {
       "name": "ai-crawler-access",
       "source": {
         "source": "github",
@@ -57,6 +66,15 @@
       },
       "description": "Transcribe speech from a local audio or video file (mp3, m4a, wav, ogg, opus, flac, webm, aac, aiff, mp4, mov) with Voxtral 3 through OpenRouter, with optional timestamps. Use when the user attaches or names a recording, voice note, meeting, interview or podcast whose words the task needs.",
       "homepage": "https://www.cryptohelvetia.com/ch-labs/prompt-library/skills/audio-transcription"
+    },
+    {
+      "name": "benchmark-letterario-llm",
+      "source": {
+        "source": "github",
+        "repo": "MicheDada21/benchmark-letterario-llm"
+      },
+      "description": "Pone dieci domande su cultura letteraria, bibliografie e giudizio critico, prima senza e poi con la ricerca web, per confrontare i modelli. Usa quando l'utente chiede di mettere alla prova o confrontare un LLM sulla cultura letteraria.",
+      "homepage": "https://www.cryptohelvetia.com/ch-labs/prompt-library/skills/benchmark-letterario-llm"
     },
     {
       "name": "design-system-refactor",
@@ -95,6 +113,15 @@
       "homepage": "https://www.cryptohelvetia.com/ch-labs/prompt-library/context/identita-agente-impersonale"
     },
     {
+      "name": "metadata-general-audit",
+      "source": {
+        "source": "github",
+        "repo": "MicheDada21/metadata-general-audit"
+      },
+      "description": "Applica la bozza di widget-modifica-metadati oppure parte da sola, controlla pagina e sito per i motori di ricerca e di risposta AI e implementa i suggerimenti scelti dall'utente. Usa quando l'utente chiede un audit SEO, GEO o AEO o di applicare una bozza di metadati.",
+      "homepage": "https://www.cryptohelvetia.com/ch-labs/prompt-library/skills/metadata-general-audit"
+    },
+    {
       "name": "metadati-dadastickers",
       "source": {
         "source": "github",
@@ -102,6 +129,24 @@
       },
       "description": "Gives each subpage its own title, description and share-preview text, pairing plain page facts with a verbatim Dadastickers statement.",
       "homepage": "https://www.cryptohelvetia.com/ch-labs/prompt-library/skills/metadati-dadastickers"
+    },
+    {
+      "name": "pocock-writing-agents",
+      "source": {
+        "source": "github",
+        "repo": "MicheDada21/pocock-writing-agents"
+      },
+      "description": "Audits a skill or agent instructions rule by rule against Matt Pocock's writing-for-agents guidance and Theo's additions, then drafts a refactoring plan for approval. Use when the user asks to review, audit or tighten a SKILL.md, an AGENTS.md or a prompt for agents.",
+      "homepage": "https://www.cryptohelvetia.com/ch-labs/prompt-library/skills/pocock-writing-agents"
+    },
+    {
+      "name": "racconta-progetto-pagina",
+      "source": {
+        "source": "github",
+        "repo": "MicheDada21/racconta-progetto-pagina"
+      },
+      "description": "Ordina in dieci blocchi la pagina web che presenta un progetto o un'idea di business a chi non ha contesto, dalla tensione iniziale alle domande aperte. Usa quando l'utente chiede di scrivere, strutturare o rivedere una pagina di presentazione o una landing di un progetto.",
+      "homepage": "https://www.cryptohelvetia.com/ch-labs/prompt-library/skills/racconta-progetto-pagina"
     },
     {
       "name": "riassunto-per-sottrazione",
@@ -113,6 +158,15 @@
       "homepage": "https://www.cryptohelvetia.com/ch-labs/prompt-library/skills/riassunto-per-sottrazione"
     },
     {
+      "name": "ripara-comportamenti-chatbot",
+      "source": {
+        "source": "github",
+        "repo": "MicheDada21/ripara-comportamenti-chatbot"
+      },
+      "description": "Parte dall'ultima conversazione salvata del chatbot, ricostruisce l'intenzione disattesa e ripara la causa nel prompt, nei tool o nel codice invece di aggiungere patch. Usa quando l'utente segnala che il chatbot del progetto ha risposto male, ha inventato o ha ignorato una richiesta.",
+      "homepage": "https://www.cryptohelvetia.com/ch-labs/prompt-library/skills/ripara-comportamenti-chatbot"
+    },
+    {
       "name": "stack-update",
       "source": {
         "source": "github",
@@ -122,6 +176,15 @@
       "homepage": "https://www.cryptohelvetia.com/ch-labs/prompt-library/skills/stack-update"
     },
     {
+      "name": "variabili-ambiente-vercel-convex",
+      "source": {
+        "source": "github",
+        "repo": "MicheDada21/variabili-ambiente-vercel-convex"
+      },
+      "description": "Decide se una variabile d'ambiente va su Vercel, su Convex o su entrambi in base a dove il codice la legge, e la imposta senza scriverla in chiaro. Usa quando in un progetto Next.js su Vercel con Convex si aggiunge, sposta o manca una variabile d'ambiente.",
+      "homepage": "https://www.cryptohelvetia.com/ch-labs/prompt-library/skills/variabili-ambiente-vercel-convex"
+    },
+    {
       "name": "voice-check",
       "source": {
         "source": "github",
@@ -129,6 +192,15 @@
       },
       "description": "Check AI-generated speech (ElevenLabs or any TTS) against its script and a real voice: words not read as written, lines in the wrong character's voice, drift, and a 0-100 fidelity score per voice-clone take, with a free offline mode. Use when the user wants a generated voice track checked or voice-clone takes compared and ranked.",
       "homepage": "https://www.cryptohelvetia.com/ch-labs/prompt-library/skills/voice-check"
+    },
+    {
+      "name": "widget-modifica-metadati",
+      "source": {
+        "source": "github",
+        "repo": "MicheDada21/widget-modifica-metadati"
+      },
+      "description": "Apre un widget con le anteprime di Google, browser, WhatsApp e iMessage per scegliere titolo, descrizione e immagine di una pagina, poi passa la bozza a metadata-general-audit. Usa quando l'utente chiede di cambiare o scegliere i metadati, il titolo SEO o l'anteprima di condivisione di una pagina.",
+      "homepage": "https://www.cryptohelvetia.com/ch-labs/prompt-library/skills/widget-modifica-metadati"
     },
     {
       "name": "bazinga",

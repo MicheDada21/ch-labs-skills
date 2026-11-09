@@ -1,6 +1,6 @@
 {
   "name": "tutte-le-skill",
-  "description": "Installs all 13 skills of the CH Labs Prompt Library.",
+  "description": "Installs all 21 skills of the CH Labs Prompt Library.",
   "author": {
     "name": "Tiziano Boccaccini"
   },
@@ -10,15 +10,23 @@
     "007-founders-nations",
     "007-headquarters-cities",
     "3d-decoration-asset",
+    "abbellisci-editoria-tallone",
     "ai-crawler-access",
     "audio-transcription",
+    "benchmark-letterario-llm",
     "design-system-refactor",
     "filtra-stile-linguistico",
     "gerarchia-editoriale-impaginazione",
     "iai",
+    "metadata-general-audit",
     "metadati-dadastickers",
+    "pocock-writing-agents",
+    "racconta-progetto-pagina",
     "riassunto-per-sottrazione",
+    "ripara-comportamenti-chatbot",
     "stack-update",
-    "voice-check"
+    "variabili-ambiente-vercel-convex",
+    "voice-check",
+    "widget-modifica-metadati"
   ]
 }
