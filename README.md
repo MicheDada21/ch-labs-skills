@@ -28,7 +28,7 @@ Le skill della [Prompt Library di CH Labs](https://www.cryptohelvetia.com/ch-lab
 | [riassunto-per-sottrazione](https://github.com/MicheDada21/riassunto-per-sottrazione) | Accorcia un testo tagliando incisi e digressioni e conserva le parole dell'autore, il loro ordine e il filo del discorso. |
 | [stack-update](https://github.com/MicheDada21/stack-update) | Aggiorna dipendenze e strumenti dopo un controllo di compatibilità e l'approvazione dell'utente. |
 | [voice-check](https://github.com/MicheDada21/voice-check) | Controlla una traccia vocale generata dall'IA rispetto al copione e dà a ogni take di una voce clonata un punteggio da 0 a 100 di fedeltà alla voce reale. |
-| [bazinga](https://github.com/MicheDada21/bazinga) | Modalità vocale per Claude Code. «bazinga on» legge ad alta voce le risposte con la tua voce ElevenLabs, «bazinga off» la spegne. |
+| [bazinga](https://github.com/MicheDada21/bazinga) | Voce ElevenLabs per Claude Code e Codex su macOS, con consumi per risposta e sessione. |
 
 Ogni repo spiega i propri requisiti. Le pagine della libreria su cryptohelvetia.com restano il riferimento per il testo di ogni skill.
 
