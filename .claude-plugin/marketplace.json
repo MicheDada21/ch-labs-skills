@@ -19,7 +19,7 @@
         "source": "github",
         "repo": "MicheDada21/007-founders-nations"
       },
-      "description": "Find the countries the founders of companies, products or tools come from (nationality, birth country or where they grew up), each claim backed by a verbatim quote in a JSONL ledger. Use when the user asks where founders come from, who founded a list of tools, or wants founder nationalities checked.",
+      "description": "Finds each founder's country of nationality, birth or upbringing and backs every claim with a verbatim quote in a ledger. Use when asking where the founders of companies or tools come from.",
       "homepage": "https://www.cryptohelvetia.com/ch-labs/prompt-library/skills/007-founders-nations"
     },
     {
@@ -28,7 +28,7 @@
         "source": "github",
         "repo": "MicheDada21/007-headquarters-cities"
       },
-      "description": "Find the cities of up to three main headquarters of companies, products or tools, written as City (Country) in rank order, each backed by a verbatim quote in a JSONL ledger. Use when the user asks where a company is based, where its main offices or headquarters are, or wants that data checked.",
+      "description": "Lists up to three main headquarters as City (Country) in rank order, each backed by a verbatim quote from the company's own pages. Use when asking where a company or tool is based.",
       "homepage": "https://www.cryptohelvetia.com/ch-labs/prompt-library/skills/007-headquarters-cities"
     },
     {
@@ -37,7 +37,7 @@
         "source": "github",
         "repo": "MicheDada21/3d-decoration-asset"
       },
-      "description": "3D and animated web assets made from a reference image or a prompt, with cloud generation through Runware by default. Use when a site needs a mascot that follows the cursor, a 360° or scroll-scrubbed object sequence, a looping clip or a GLB model built, generated or integrated.",
+      "description": "Builds 3D and animated web assets from a reference image or a prompt, with paid cloud generation only after cost approval. Use when a site needs a cursor-following mascot, a scroll sequence or a GLB model.",
       "homepage": "https://www.cryptohelvetia.com/ch-labs/prompt-library/skills/3d-decoration-asset"
     },
     {
@@ -46,7 +46,7 @@
         "source": "github",
         "repo": "MicheDada21/decorazione-futurista-editoriale"
       },
-      "description": "Estranges a page's form toward essential futurism at a 0 to 100 level, drawn from Marinetti's own manifestos, while every word stays legible. Use when the user asks to beautify, decorate or dare more with a page, to make it less generic or more futurist, or to brainstorm visual effects.",
+      "description": "Estranges a page's form to a 0 to 100 level of essential futurism, drawn from Marinetti's manifestos, while every word stays legible. Use when a page looks generic or when brainstorming visual effects.",
       "homepage": "https://www.cryptohelvetia.com/ch-labs/prompt-library/skills/decorazione-futurista-editoriale"
     },
     {
@@ -55,7 +55,7 @@
         "source": "github",
         "repo": "MicheDada21/optimize-crawler-access"
       },
-      "description": "Audit and fix AI crawler access to a site, from robots.txt and Vercel or Cloudflare edge blocks to content that only appears with JavaScript. Use when ChatGPT, Claude or Perplexity should cite a site (AEO, GEO), or when the user wants AI training bots blocked.",
+      "description": "Finds and fixes what stops AI crawlers from reading a site, from robots.txt to edge blocks and JavaScript-only content. Use when ChatGPT, Claude or Perplexity should cite a site, or to block training bots.",
       "homepage": "https://www.cryptohelvetia.com/ch-labs/prompt-library/skills/optimize-crawler-access"
     },
     {
@@ -64,7 +64,7 @@
         "source": "github",
         "repo": "MicheDada21/transcribe-audio-video"
       },
-      "description": "Transcribe speech from a local audio or video file (mp3, m4a, wav, ogg, opus, flac, webm, aac, aiff, mp4, mov) with Voxtral 3 through OpenRouter, with optional timestamps. Use when the user attaches or names a recording, voice note, meeting, interview or podcast whose words the task needs.",
+      "description": "Transcribes speech from a local audio or video file with Voxtral 3 through OpenRouter, with optional timestamps and a per-file cost guard. Use when a task needs the words of a recording, meeting or podcast.",
       "homepage": "https://www.cryptohelvetia.com/ch-labs/prompt-library/skills/transcribe-audio-video"
     },
     {
@@ -73,7 +73,7 @@
         "source": "github",
         "repo": "MicheDada21/benchmark-letterario-llm"
       },
-      "description": "Pone dieci domande su cultura letteraria, bibliografie e giudizio critico, prima senza e poi con la ricerca web, per confrontare i modelli. Usa quando l'utente chiede di mettere alla prova o confrontare un LLM sulla cultura letteraria.",
+      "description": "Asks ten questions on literary culture, bibliographies and critical judgment, first without and then with web search. Use when testing an LLM or comparing several models on how well they know literature.",
       "homepage": "https://www.cryptohelvetia.com/ch-labs/prompt-library/skills/benchmark-letterario-llm"
     },
     {
@@ -82,7 +82,7 @@
         "source": "github",
         "repo": "MicheDada21/design-system-refactor"
       },
-      "description": "Refactor a frontend design system with zero visual change: tokens, shared components, guardrails, in any framework. Use when the user asks to refactor or clean up a design system, theme, tokens or component library, or to remove hardcoded styles and duplicated UI.",
+      "description": "Moves hardcoded styles into tokens and repeated UI into shared components, proving every page stays pixel-identical. Use when cleaning up a design system, theme or component library in any framework.",
       "homepage": "https://www.cryptohelvetia.com/ch-labs/prompt-library/skills/design-system-refactor"
     },
     {
@@ -91,7 +91,7 @@
         "source": "github",
         "repo": "MicheDada21/umanizza-stile-linguistico"
       },
-      "description": "Ripulisce tono, lessico e punteggiatura di testi in prosa e propone un secondo passaggio editoriale mirato. Usa quando l'utente chiede di filtrare lo stile, ridurre i tic di scrittura da IA o applicare queste preferenze alla stesura di un testo.",
+      "description": "Cleans tone, vocabulary and punctuation in Italian prose, then offers a second editorial pass. Use when a draft shows AI writing tics or when these style preferences should shape a new text.",
       "homepage": "https://www.cryptohelvetia.com/ch-labs/prompt-library/chat-preferences/umanizza-stile-linguistico"
     },
     {
@@ -100,7 +100,7 @@
         "source": "github",
         "repo": "MicheDada21/gerarchia-tipografica-impaginazione"
       },
-      "description": "Rivede la gerarchia visiva di pagine già scritte secondo il significato dei testi, conservando ciò che funziona.",
+      "description": "Reorganizes a page's visual hierarchy by the meaning of its texts, with the smallest change that helps reading. Use when an already written page blurs quotes, notes and sections or misplaces emphasis.",
       "homepage": "https://www.cryptohelvetia.com/ch-labs/prompt-library/skills/gerarchia-tipografica-impaginazione"
     },
     {
@@ -109,7 +109,7 @@
         "source": "github",
         "repo": "MicheDada21/iai"
       },
-      "description": "IAI, Identità Agente Impersonale: le due metà, Tiziano e Michelangelo Boccaccini, dietro le richieste. Usa quando una richiesta nomina IAI, Tiziano o Michelangelo, chiede una biografia, un profilo o il contesto di uno dei due per una proposta di collaborazione o una candidatura, o chiede di firmare come uno dei due.",
+      "description": "Introduces IAI, the shared family identity of Tiziano and Michelangelo Boccaccini, who program agents and build businesses with AI. Use when a request needs a bio, a profile or a signature for either.",
       "homepage": "https://www.cryptohelvetia.com/ch-labs/prompt-library/context/identita-agente-impersonale"
     },
     {
@@ -118,7 +118,7 @@
         "source": "github",
         "repo": "MicheDada21/coordinate-metadata-saio"
       },
-      "description": "Applica la bozza di customize-metadata-widget oppure parte da sola, controlla pagina e sito per i motori di ricerca e di risposta AI e implementa i suggerimenti scelti dall'utente. Usa quando l'utente chiede un audit SEO, GEO o AEO o di applicare una bozza di metadati.",
+      "description": "Checks a page and its site for search and AI answer engines, then implements the suggestions the user picks, starting alone or from the widget's draft. Use when running an SEO, GEO or AEO audit.",
       "homepage": "https://www.cryptohelvetia.com/ch-labs/prompt-library/skills/coordinate-metadata-saio"
     },
     {
@@ -127,7 +127,7 @@
         "source": "github",
         "repo": "MicheDada21/metadata-copy-dadastickers"
       },
-      "description": "Gives each subpage its own title, description and share-preview text, pairing plain page facts with a verbatim Dadastickers statement.",
+      "description": "Gives each subpage its own title, description and share-preview text, pairing plain page facts with a verbatim Dadastickers statement. Use when subpages copy the home page's metadata or have none.",
       "homepage": "https://www.cryptohelvetia.com/ch-labs/prompt-library/skills/metadata-copy-dadastickers"
     },
     {
@@ -136,7 +136,7 @@
         "source": "github",
         "repo": "MicheDada21/audit-skill-pocock"
       },
-      "description": "Audits a skill or agent instructions rule by rule against Matt Pocock's writing-for-agents guidance and Theo's additions, then drafts a refactoring plan for approval. Use when the user asks to review, audit or tighten a SKILL.md, an AGENTS.md or a prompt for agents.",
+      "description": "Audits a skill or agent instructions rule by rule against Matt Pocock's writing-for-agents guidance and Theo's additions, then drafts a refactoring plan. Use when tightening a SKILL.md, AGENTS.md or prompt.",
       "homepage": "https://www.cryptohelvetia.com/ch-labs/prompt-library/skills/audit-skill-pocock"
     },
     {
@@ -145,7 +145,7 @@
         "source": "github",
         "repo": "MicheDada21/descrivi-idea-prodotto"
       },
-      "description": "Ordina in dieci blocchi la pagina web che presenta un progetto o un'idea di business a chi non ha contesto, dalla tensione iniziale alle domande aperte. Usa quando l'utente chiede di scrivere, strutturare o rivedere una pagina di presentazione o una landing di un progetto.",
+      "description": "Orders in ten blocks the page that presents a project or business idea to readers with no context, from the opening tension to the open questions. Use when writing or revising a landing page.",
       "homepage": "https://www.cryptohelvetia.com/ch-labs/prompt-library/skills/descrivi-idea-prodotto"
     },
     {
@@ -154,7 +154,7 @@
         "source": "github",
         "repo": "MicheDada21/riassumi-preservando-linguaggio"
       },
-      "description": "Condensa un testo nella lingua originale tagliando soltanto incisi e rami secondari. Conserva parola per parola il filo principale, le sue ragioni e la direzione del discorso. Usa quando l'utente chiede un riassunto per sottrazione, un riassunto senza parafrasi o un compendio che mantenga intatte le parole dell'autore.",
+      "description": "Shortens a text in its original language by cutting only asides and digressions, keeping the author's words, their order and the thread. Use when a summary must subtract without paraphrasing.",
       "homepage": "https://www.cryptohelvetia.com/ch-labs/prompt-library/skills/riassumi-preservando-linguaggio"
     },
     {
@@ -163,7 +163,7 @@
         "source": "github",
         "repo": "MicheDada21/addestra-comportamento-chatbot"
       },
-      "description": "Parte dall'ultima conversazione salvata del chatbot, ricostruisce l'intenzione disattesa e ripara la causa nel prompt, nei tool o nel codice invece di aggiungere patch. Usa quando l'utente segnala che il chatbot del progetto ha risposto male, ha inventato o ha ignorato una richiesta.",
+      "description": "Reconstructs the intention a chatbot missed in its last saved conversation and repairs the cause in the prompt, tools or code. Use when a project's chatbot answered badly, made things up or ignored a request.",
       "homepage": "https://www.cryptohelvetia.com/ch-labs/prompt-library/skills/addestra-comportamento-chatbot"
     },
     {
@@ -172,7 +172,7 @@
         "source": "github",
         "repo": "MicheDada21/check-stack-updates"
       },
-      "description": "Update outdated dependencies and tools after a compatibility check and the user's approval. Use when the user asks to update, upgrade or bump this project (scope Project), several or all projects (scope Batch), or Bun, Node, global Bun tools, Homebrew tools or IDE command-line tools (scope Machine toolchain).",
+      "description": "Updates outdated dependencies and tools after a compatibility check, fixes failing checks and publishes only after approval. Use when upgrading one project, a batch of projects or the machine toolchain.",
       "homepage": "https://www.cryptohelvetia.com/ch-labs/prompt-library/skills/check-stack-updates"
     },
     {
@@ -181,7 +181,7 @@
         "source": "github",
         "repo": "MicheDada21/scegli-variabili-ambiente"
       },
-      "description": "Decide se una variabile d'ambiente va su Vercel, su Convex o su entrambi in base a dove il codice la legge, e la imposta senza scriverla in chiaro. Usa quando in un progetto Next.js su Vercel con Convex si aggiunge, sposta o manca una variabile d'ambiente.",
+      "description": "Decides whether an environment variable belongs on Vercel, on Convex or on both by where the code reads it, and sets it without exposing its value. Use when adding, moving or missing a variable.",
       "homepage": "https://www.cryptohelvetia.com/ch-labs/prompt-library/skills/scegli-variabili-ambiente"
     },
     {
@@ -190,7 +190,7 @@
         "source": "github",
         "repo": "MicheDada21/evaluate-voice-quality"
       },
-      "description": "Check AI-generated speech (ElevenLabs or any TTS) against its script and a real voice: words not read as written, lines in the wrong character's voice, drift, and a 0-100 fidelity score per voice-clone take, with a free offline mode. Use when the user wants a generated voice track checked or voice-clone takes compared and ranked.",
+      "description": "Flags misread words, wrong-voice lines and drift in AI speech, and scores each voice-clone take 0-100 against the real speaker. Use when checking a generated voice track or ranking clone takes.",
       "homepage": "https://www.cryptohelvetia.com/ch-labs/prompt-library/skills/evaluate-voice-quality"
     },
     {
@@ -199,7 +199,7 @@
         "source": "github",
         "repo": "MicheDada21/customize-metadata-widget"
       },
-      "description": "Apre un widget con le anteprime di Google, browser, WhatsApp e iMessage per scegliere titolo, descrizione e immagine di una pagina, poi passa la bozza a coordinate-metadata-saio. Usa quando l'utente chiede di cambiare o scegliere i metadati, il titolo SEO o l'anteprima di condivisione di una pagina.",
+      "description": "Opens a widget with Google, browser, WhatsApp and iMessage previews to pick a page's title, description and image, then hands the draft on. Use when choosing SEO titles or share previews.",
       "homepage": "https://www.cryptohelvetia.com/ch-labs/prompt-library/skills/customize-metadata-widget"
     },
     {
