@@ -4,15 +4,9 @@
     "name": "Tiziano Boccaccini"
   },
   "metadata": {
-    "description": "Le skill della Prompt Library di CH Labs e il plugin vocale bazinga per Claude Code."
+    "description": "Le skill della Prompt Library di CH Labs per Claude Code, da installare una alla volta."
   },
   "plugins": [
-    {
-      "name": "tutte-le-skill",
-      "source": "./plugins/tutte-le-skill",
-      "description": "All 21 skills of the CH Labs Prompt Library in one install.",
-      "category": "productivity"
-    },
     {
       "name": "007-founders-nations",
       "source": {
@@ -201,15 +195,6 @@
       },
       "description": "Opens a widget with Google, browser, WhatsApp and iMessage previews to pick a page's title, description and image, then hands the draft on. Use when choosing SEO titles or share previews.",
       "homepage": "https://www.cryptohelvetia.com/ch-labs/prompt-library/skills/customize-metadata-widget"
-    },
-    {
-      "name": "bazinga",
-      "source": {
-        "source": "github",
-        "repo": "MicheDada21/bazinga"
-      },
-      "description": "Voice mode for Claude Code: \"bazinga on\" reads replies aloud in your ElevenLabs voice, \"bazinga off\" stops it, the mic then listens for your spoken answer, and a row above the prompt shows credits and dollars spent.",
-      "category": "productivity"
     }
   ]
 }

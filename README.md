@@ -1,15 +1,15 @@
 # ch-labs-skills
 
-Le skill della [Prompt Library di CH Labs](https://www.cryptohelvetia.com/ch-labs/prompt-library) e bazinga, un plugin vocale per Claude Code. Ogni plugin vive nel suo repo e questo marketplace li raccoglie, così bastano due righe per installarli tutti.
+Le skill della [Prompt Library di CH Labs](https://www.cryptohelvetia.com/ch-labs/prompt-library) per Claude Code. Ogni skill vive nel suo repo e fa un lavoro diverso dalle altre, quindi si installa una alla volta, scegliendo quella che serve.
 
 ## Installare
 
 ```
 /plugin marketplace add MicheDada21/ch-labs-skills
-/plugin install tutte-le-skill@ch-labs-skills
+/plugin install riassumi-preservando-linguaggio@ch-labs-skills
 ```
 
-`tutte-le-skill` porta con sé le 21 skill. Per una skill sola usa il suo nome, per esempio `/plugin install riassumi-preservando-linguaggio@ch-labs-skills`. Da shell i comandi sono `claude plugin marketplace add MicheDada21/ch-labs-skills` e `claude plugin install tutte-le-skill@ch-labs-skills`. Nell'app desktop premi + accanto al campo del prompt, apri Plugins, aggiungi il marketplace `MicheDada21/ch-labs-skills` con Add marketplace e poi il plugin con Add plugin.
+Al posto di `riassumi-preservando-linguaggio` metti il nome della skill che ti serve, preso dalla tabella qui sotto. Da shell i comandi sono `claude plugin marketplace add MicheDada21/ch-labs-skills` e `claude plugin install <skill>@ch-labs-skills`. Nell'app desktop premi + accanto al campo del prompt, apri Plugins, aggiungi il marketplace `MicheDada21/ch-labs-skills` con Add marketplace e poi il plugin con Add plugin.
 
 ## Plugin
 
@@ -36,7 +36,6 @@ Le skill della [Prompt Library di CH Labs](https://www.cryptohelvetia.com/ch-lab
 | [scegli-variabili-ambiente](https://github.com/MicheDada21/scegli-variabili-ambiente) | Decide se una variabile d'ambiente va su Vercel, su Convex o su entrambi in base a dove il codice la legge. |
 | [evaluate-voice-quality](https://github.com/MicheDada21/evaluate-voice-quality) | Controlla una traccia vocale generata dall'IA rispetto al copione e dà a ogni take di una voce clonata un punteggio da 0 a 100 di fedeltà alla voce reale. |
 | [customize-metadata-widget](https://github.com/MicheDada21/customize-metadata-widget) | Apre un widget con le anteprime di Google, browser, WhatsApp e iMessage per scegliere titolo, descrizione e immagine di una pagina. Parte solo quando la chiami per nome. |
-| [bazinga](https://github.com/MicheDada21/bazinga) | Voce ElevenLabs per Claude Code e Codex su macOS, con consumi per risposta e sessione. |
 
 Ogni repo spiega i propri requisiti. Le pagine della libreria su cryptohelvetia.com restano il riferimento per il testo di ogni skill.
 
