@@ -98,15 +98,6 @@
       "homepage": "https://www.cryptohelvetia.com/ch-labs/prompt-library/skills/gerarchia-tipografica-impaginazione"
     },
     {
-      "name": "iai",
-      "source": {
-        "source": "github",
-        "repo": "MicheDada21/iai"
-      },
-      "description": "Introduces IAI, the shared family identity of Tiziano and Michelangelo Boccaccini, who program agents and build businesses with AI. Use when a request needs a bio, a profile or a signature for either.",
-      "homepage": "https://www.cryptohelvetia.com/ch-labs/prompt-library/context/identita-agente-impersonale"
-    },
-    {
       "name": "coordinate-metadata-saio",
       "source": {
         "source": "github",
