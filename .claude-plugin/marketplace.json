@@ -76,7 +76,7 @@
         "source": "github",
         "repo": "MicheDada21/design-system-refactor"
       },
-      "description": "Moves hardcoded styles into tokens and repeated UI into shared components, proving every page stays pixel-identical. Use when cleaning up a design system, theme or component library in any framework.",
+      "description": "Moves hardcoded styles into tokens and repeated UI into shared components, preserving appearance, behavior and accessibility. Use when cleaning up a design system, theme or component library in any framework.",
       "homepage": "https://www.cryptohelvetia.com/ch-labs/prompt-library/skills/design-system-refactor"
     },
     {
