@@ -195,6 +195,15 @@
       },
       "description": "Sorts screenshots and other image files into text-only, image-led, and prominent-text folders by the role of the words. Use when organizing an image collection or refining an existing visual sort.",
       "homepage": "https://www.cryptohelvetia.com/ch-labs/prompt-library/skills/sorting-screen-basic"
+    },
+    {
+      "name": "widget-gamification",
+      "source": {
+        "source": "github",
+        "repo": "MicheDada21/widget-gamification"
+      },
+      "description": "Gamifies a widget with the client's own tools: varied question forms, open and closed answers, rounds with real unlocks and a self-evident layout. Use when building or improving a question widget.",
+      "homepage": "https://www.cryptohelvetia.com/ch-labs/prompt-library/skills/widget-gamification"
     }
   ]
 }

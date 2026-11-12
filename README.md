@@ -36,6 +36,7 @@ Al posto di `riassumi-preservando-linguaggio` metti il nome della skill che ti s
 | [evaluate-voice-quality](https://github.com/MicheDada21/evaluate-voice-quality) | Controlla una traccia vocale generata dall'IA rispetto al copione e dà a ogni take di una voce clonata un punteggio da 0 a 100 di fedeltà alla voce reale. |
 | [customize-metadata-widget](https://github.com/MicheDada21/customize-metadata-widget) | Apre un widget con le anteprime di Google, browser, WhatsApp e iMessage per scegliere titolo, descrizione e immagine di una pagina. Parte solo quando la chiami per nome. |
 | [sorting-screen-basic](https://github.com/MicheDada21/sorting-screen-basic) | Ordina screenshot e altre immagini in tre gruppi secondo il ruolo del testo. Separa le immagini di solo testo, quelle con scritte secondarie o assenti e quelle con scritte in primo piano. |
+| [widget-gamification](https://github.com/MicheDada21/widget-gamification) | Trasforma un widget di domande in brevi round di gioco con gli strumenti interni dell'IDE: forme di domanda varie, risposte aperte e chiuse, sblocchi reali e un'impaginazione che si spiega da sola. |
 
 Ogni repo spiega i propri requisiti. Le pagine della libreria su cryptohelvetia.com restano il riferimento per il testo di ogni skill.
 
