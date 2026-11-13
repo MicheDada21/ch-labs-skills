@@ -197,13 +197,13 @@
       "homepage": "https://www.cryptohelvetia.com/ch-labs/prompt-library/skills/sorting-screen-basic"
     },
     {
-      "name": "widget-gamification",
+      "name": "grilling-gamified-widget",
       "source": {
         "source": "github",
-        "repo": "MicheDada21/widget-gamification"
+        "repo": "MicheDada21/grilling-gamified-widget"
       },
       "description": "Gamifies a widget with the client's own tools: questions grounded in the codebase, varied forms, open and closed answers, live progress and real unlocks. Use when building or improving a question widget.",
-      "homepage": "https://www.cryptohelvetia.com/ch-labs/prompt-library/skills/widget-gamification"
+      "homepage": "https://www.cryptohelvetia.com/ch-labs/prompt-library/skills/grilling-gamified-widget"
     }
   ]
 }
