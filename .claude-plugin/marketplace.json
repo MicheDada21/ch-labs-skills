@@ -152,15 +152,6 @@
       "homepage": "https://www.cryptohelvetia.com/ch-labs/prompt-library/skills/addestra-comportamento-chatbot"
     },
     {
-      "name": "check-stack-updates",
-      "source": {
-        "source": "github",
-        "repo": "MicheDada21/check-stack-updates"
-      },
-      "description": "Updates outdated dependencies and tools after a compatibility check, fixes failing checks and publishes only after approval. Use when upgrading one project, a batch of projects or the machine toolchain.",
-      "homepage": "https://www.cryptohelvetia.com/ch-labs/prompt-library/skills/check-stack-updates"
-    },
-    {
       "name": "scegli-variabili-ambiente",
       "source": {
         "source": "github",
