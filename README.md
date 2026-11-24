@@ -36,7 +36,7 @@ Al posto di `riassumi-preservando-linguaggio` metti il nome della skill che ti s
 | [customize-metadata-widget](https://github.com/MicheDada21/customize-metadata-widget) | Apre un widget con le anteprime di Google, browser, WhatsApp e iMessage per scegliere titolo, descrizione e immagine di una pagina. Parte solo quando la chiami per nome. |
 | [sorting-screen-basic](https://github.com/MicheDada21/sorting-screen-basic) | Ordina screenshot e altre immagini in tre gruppi secondo il ruolo del testo. Separa le immagini di solo testo, quelle con scritte secondarie o assenti e quelle con scritte in primo piano. |
 | [grilling-gamified-widget](https://github.com/MicheDada21/grilling-gamified-widget) | Crea un widget di domande con grafica da gioco interattivo: domande fondate sul contesto, reazioni visive a ogni risposta, progresso sempre in vista e sblocchi reali. |
-| [desloppify-repo](https://github.com/MicheDada21/desloppify-repo) | Sottrae lo slop da un repository, dal codice morto ai workaround alle istruzioni per agenti superate, in piccoli lotti che non cambiano il comportamento, poi aggiunge controlli automatici. |
+| [unslop-ai-manifesto](https://github.com/MicheDada21/unslop-ai-manifesto) | Sottrae lo slop da un repository, dal codice morto ai workaround alle istruzioni per agenti superate, in piccoli lotti che non cambiano il comportamento, poi aggiunge controlli automatici. |
 
 Ogni repo spiega i propri requisiti. Le pagine della libreria su cryptohelvetia.com restano il riferimento per il testo di ogni skill.
 
