@@ -203,7 +203,7 @@
         "repo": "MicheDada21/unslop-ai-manifesto"
       },
       "description": "Subtracts slop from a repository, from dead code and stacked workarounds to stale agent docs, in small batches that keep behavior, then adds guardrails. Use when refactoring a repo or cleaning up after agents.",
-      "homepage": "https://www.cryptohelvetia.com/ch-labs/prompt-library"
+      "homepage": "https://www.cryptohelvetia.com/ch-labs/prompt-library/skills/unslop-ai-manifesto"
     }
   ]
 }
