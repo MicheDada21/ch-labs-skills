@@ -195,6 +195,15 @@
       },
       "description": "Builds a visually gamified decision widget with the client's rendering tools: grounded questions, responsive graphics, progress and real unlocks. Use when creating or improving a question widget.",
       "homepage": "https://www.cryptohelvetia.com/ch-labs/prompt-library/skills/grilling-gamified-widget"
+    },
+    {
+      "name": "desloppify-repo",
+      "source": {
+        "source": "github",
+        "repo": "MicheDada21/desloppify-repo"
+      },
+      "description": "Subtracts slop from a repository, from dead code and stacked workarounds to stale agent docs, in small batches that keep behavior, then adds guardrails. Use when refactoring a repo or cleaning up after agents.",
+      "homepage": "https://www.cryptohelvetia.com/ch-labs/prompt-library/skills/desloppify-repo"
     }
   ]
 }
